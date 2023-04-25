@@ -1,0 +1,36 @@
+.wrapper{
+    position: relative;
+}
+
+h1{
+    position: relative;
+}
+
+h2{
+    position: relative;
+}
+
+.Comments{
+    position: relative;
+}
+
+form{
+    position: relative;
+    margin-top: 0%;
+}
+
+.submitButton{
+    position: relative;
+    margin-left: -90%;
+    transform: translate(-50%, -50%);
+}
+
+ul{
+    list-style-type: none;
+}
+
+#likeButton{
+    position: absolute;
+    left: 50%;
+    top: 110%;
+}

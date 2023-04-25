@@ -1,0 +1,103 @@
+h1{
+    position: fixed;
+    font-size: 200%;
+    top: 10%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+}
+
+#albumHeader{
+    margin-top: 100px;
+}
+
+.postWrapper{
+    display: inline-block;
+    flex-direction: column;
+}
+
+.postIMG{
+    position: relative;
+    margin: 10px;
+}
+
+#postTitle{
+    position: relative;
+}
+
+#postAlbum{
+    position: relative;
+}
+
+img{
+    width: 250px;
+    height:250px;
+}
+
+.albumView{
+    position: relative;
+    top:100px;
+}
+
+.createAlbum form{
+    position: relative;
+    top: 10px;
+    background-color: lightblue;
+}
+.createAlbum{
+    background-color: lightblue;
+    position: relative;
+    top: 100px;
+}
+.createPhoto form{
+    position: relative;
+}
+
+.createPhoto{
+    position: relative;
+    background-color: lightblue;
+    top: 100px;
+}
+
+#cAlbBut{
+    position: relative;
+    left: 16%;
+}
+
+#cPhoBut{
+    position: relative;
+    left: 31%;
+}
+
+.addTag{
+    position: relative;
+    background-color:lightblue;
+    top: 100px;
+}
+
+#tagButton{
+    position: relative;
+    left: 16%;
+}
+
+.deletePhoto{
+    position: relative;
+    background-color: lightcoral;
+    top: 100px;
+}
+
+.deleteAlbum{
+    position: relative;
+    background-color: lightcoral;
+    top: 100px;
+}
+
+#deleteAlbumButton{
+    position: relative;
+    left: 12%;
+}
+
+#deletePhotoButton{
+    position: relative;
+    left: 12%;
+}

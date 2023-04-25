@@ -1,0 +1,19 @@
+.headerFriends{
+    position: relative;
+    padding-top:5%;
+}
+.footerFriends{
+    position: relative;
+    padding-top:2%;
+}
+
+#addFriendButton{
+    position: relative;
+    left: 5%;
+    transform: translate(-50%, -50%);
+}
+
+.reccomendHeader{
+    position: relative;
+    padding-top:2%;
+}

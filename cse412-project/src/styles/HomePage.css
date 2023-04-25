@@ -1,0 +1,64 @@
+h1{
+    position: fixed;
+    left: 50%
+}
+
+#hp{
+    top:2%;
+}
+
+.filterUserCheck{
+    position: absolute;
+    top:15.3%;
+    left: 50%;
+
+    transform:translate(-50%, -50%);
+}
+
+.moreDetails{
+    position: relative;
+    margin-top: 2%;
+    margin-left: -50%;
+}
+
+.popularTags{
+    position: absolute;
+    margin-left: 15.5%;
+    margin-top: -7.65%;
+    background-color: bisque;
+    width: 10%;
+}
+.popTagUl{
+    position: relative;
+    right:-50px;
+    list-style-type: decimal;
+    text-align: left;
+    width: 70%;
+}
+
+.popularTag{
+    position: relative;
+}
+
+.topUsers{
+    position: absolute;
+    right: 15.5%;
+    margin-top: -7.65%;
+    background-color: bisque;
+    width: 10%;
+}
+.topUsersUl{
+    position: relative;
+    right:-50px;
+    list-style-type: decimal;
+    text-align: left;
+    width: 70%;
+}
+
+.topUser{
+    position: relative;
+}
+
+#caption{
+    position: relative;
+}
